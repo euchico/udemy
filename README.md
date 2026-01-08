@@ -12,4 +12,4 @@
 * **Instagram:** [@euchicodev](https://www.instagram.com/euchicodev)
 
 ## Licença
-MIT License (MIT) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
+MIT License (MIT) 2026 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
